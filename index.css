@@ -1,0 +1,60 @@
+ body {
+    width: 100%;
+    height: 100%;
+}
+
+img {
+    height: 348px;
+}
+h1.container {box-shadow: 16px 12px 9px 1px red;   
+     border-radius: 18px;  
+       border: 3px solid;  
+         margin-left: 348px;  
+           width: 770px;
+
+
+    background-color: yellow;
+    font-size: 62px;
+    text-align: center;
+    text-shadow: 4px 5px red;
+}
+input.inputmynumber {
+    font-size: 50px; 
+    background-color: rgb(42, 38, 38);  
+      color: white;
+    height: 68px;
+    width: 351px;
+    border-radius: 36px;
+    box-shadow: 0px 0px 9px 3px red;
+    border: 2px solid blue;
+}
+.input {
+    margin: 75px -7px 0px 0px;
+}
+.buttoncontainer {
+    background-color: #000;
+    height: 546px;
+    width: 383px;
+    margin: -7px 1px -428px 546px;
+    text-align: center;
+    border-radius: 47px;
+    border: 2px solid rgb(204, 255, 0);
+    box-shadow: 0px 1px 15px 5px red;
+}
+button.btm {
+    text-shadow: 2px 3px rgb(154, 145, 145);
+    font-size: 50px; 
+    background-color: rgb(42, 38, 38);  
+      color: white;
+    margin: 7px 6px 1px -1px;
+    width: 79px;
+    height: 70px;
+    border-radius: 36px;
+    box-shadow: 0px 0px 9px 3px #ff0;
+    border: 2px solid blue;
+}
+
+button#zero {
+    width: 163px;
+}
+
